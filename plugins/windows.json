@@ -1,0 +1,27 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.ionic.keyboard": {
+            "PACKAGE_NAME": "instam"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "instam"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "instam"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "instam"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "instam"
+        }
+    },
+    "dependent_plugins": {}
+}
